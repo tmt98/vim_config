@@ -1,0 +1,4 @@
+{
+  "suggest.selectPreviousItem": "<S-Tab>",
+  "suggest.confirmCompletion": "<CR>"
+}
